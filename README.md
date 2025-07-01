@@ -1,7 +1,7 @@
 # 🎬 Netflix Trends Dashboard
 
 An interactive, Netflix-themed dashboard built with Streamlit to explore content trends across years, countries, genres, and more.  
-This project was created as part of my #buildinpublic journey (Day 3) — proudly built by a student & designer 👩‍💻✨
+This project was created as part of my #buildinpublic journey (Day 3) — proudly built by a student & designer 
 
 ---
 
@@ -18,7 +18,7 @@ This project was created as part of my #buildinpublic journey (Day 3) — proudl
 -  Filter by **Rating** (with age group descriptions)
 -  Top 10 **Countries** producing Netflix content
 -  Most popular **Genres**
--  Top **Actors** and 🎬 **Directors**
+-  Top **Actors** and  **Directors**
 -  Beautiful UI inspired by **Netflix’s dark theme**
 -  Reset filters with one click
 
